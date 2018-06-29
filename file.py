@@ -1,1 +1,2 @@
-print("I am compiled!!!")
+print('I am compiled')
+print('Add some text')
